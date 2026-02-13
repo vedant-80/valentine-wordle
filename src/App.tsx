@@ -115,7 +115,7 @@ function App() {
         isOpen={isGameLost}
       />
       <div className="flex w-80 mx-auto items-center mb-8">
-        <h1 className="text-xl grow font-bold">Drishti's Wordle!</h1>
+        <h1 className="text-xl grow font-bold">Drishti, will you be my...</h1>
         <InformationCircleIcon
           className="h-6 w-6 cursor-pointer"
           onClick={() => setIsInfoModalOpen(true)}
